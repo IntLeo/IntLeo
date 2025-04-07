@@ -1,6 +1,4 @@
 - 👋 Olá, meu nome é Leonardo
 - 👀 Estou interessado na teclonogia e programação
 - 🌱 Estou atualmente estudando Técnico em TI
-- 💞️ Procuro um mentor em programação
-- 🏐 Amo jogar vôlei 
 - 📫 leonardomachado.meca@gmail.com
