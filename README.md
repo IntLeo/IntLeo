@@ -1,5 +1,4 @@
 - 👋 Olá, meu nome é Leonardo
 - 👀 Estou interessado em teclonogia e programação
 - 🐘 Foco no PHP atualmente!
-- 🌱 Estou atualmente estudando Técnico em Informatica
 - 📫 leonardomachado.meca@gmail.com
