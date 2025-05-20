@@ -6,6 +6,3 @@ Desenvolvedor em formação
 📫 Contato
 📧 Email: leonardomachado.meca@gmail.com
 
-<?php
-echo "Que nunca falte café!";
-?>
